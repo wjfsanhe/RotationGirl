@@ -38,6 +38,7 @@ import javax.microedition.khronos.opengles.GL10;
 import android.content.Context;
 import android.opengl.GLSurfaceView.Renderer;
 import android.opengl.Matrix;
+import android.os.Handler;
 
 import com.airhockey.android.math.Matrix4;
 import com.airhockey.android.util.LoggerConfig;
@@ -76,6 +77,7 @@ public class AirHockeyRenderer implements Renderer {
     private int uMatrixLocation;
     private int aPositionLocation;
     private int aColorLocation;
+    private float modelAngle = 0f;
     private int mWidth = 0;
     private int mHeight = 0;
 
@@ -130,7 +132,46 @@ public class AirHockeyRenderer implements Renderer {
 
         vertexData.put(tableVerticesWithTriangles);
     }
+    public boolean updateModelPosition(final float v){
+        new Thread(){
 
+            @Override
+            public void run() {
+                float vel=v;
+                float dir = vel > 0 ? 1.0f:-1.0f;
+                float scale = 1.0f;
+                vel = Math.abs(vel);
+                while (vel > 0f){
+
+                    vel = vel - 200;
+                    if (vel > 14000){
+                        scale = 65f;
+                    }else if ( vel > 10000){
+                        scale = 40f;
+                    }else if ( vel > 7000){
+                        scale = 30f;
+                    }else if ( vel > 4000){
+                        scale = 20f;
+                    }else if ( vel > 1000){
+                        scale = 10f;
+                    }else{
+                        scale = 4f;
+                    }
+                    modelAngle += scale * dir;
+                    try {
+                        Thread.sleep(80);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        }.start();
+        return true;
+    }
+    public boolean updateScroll(final float v){
+        modelAngle -= v;
+        return true;
+    }
     public boolean updateCameraPosition(float[] matrix){
         System.arraycopy(matrix,0,cameraMatrix,0,cameraMatrix.length);
 
@@ -192,7 +233,7 @@ public class AirHockeyRenderer implements Renderer {
         setIdentityM(modelMatrix, 0);
 
         translateM(modelMatrix, 0, 0f, 0f, -6.5f);
-        rotateM(modelMatrix, 0, -0f, 1f, 0f, 0f);
+        rotateM(modelMatrix, 0, modelAngle, 1f, 0f, 0f);
 
         rotateM(cameraMatrix, 0, -90f, 0f, 1f, 0f);
 

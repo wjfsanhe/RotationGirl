@@ -24,7 +24,7 @@ public class RotationVectorListener implements SensorEventListener {
     @Override
     public void onSensorChanged(SensorEvent event) {
         SensorManager.getRotationMatrixFromVector(mRotationM, event.values);
-        Log.d("WJF","rotation changed " + mRotationM.toString());
+        //Log.d("WJF","rotation changed " + mRotationM.toString());
         mRotationUpdateDelegate.onRotationUpdate(mRotationM);
     }
 

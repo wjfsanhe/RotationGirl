@@ -17,7 +17,11 @@ import android.hardware.SensorManager;
 import android.opengl.GLSurfaceView;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.v4.view.GestureDetectorCompat;
+import android.util.Log;
 import android.view.Display;
+import android.view.GestureDetector;
+import android.view.MotionEvent;
 import android.view.Surface;
 import android.view.WindowManager;
 import android.widget.Toast;
@@ -26,10 +30,14 @@ import com.airhockey.android.math.Matrix4;
 import com.airhockey.android.util.RotationUpdateDelegate;
 import com.airhockey.android.util.RotationVectorListener;
 
-public class AirHockeyActivity extends Activity implements RotationUpdateDelegate {
+public class AirHockeyActivity extends Activity implements RotationUpdateDelegate,
+        GestureDetector.OnGestureListener,
+        GestureDetector.OnDoubleTapListener {
     /**
      * Hold a reference to our GLSurfaceView
      */
+    private final String TAG = "WJF";
+    private final String DEBUG_TAG = "WJF";
     private GLSurfaceView glSurfaceView;
     private boolean rendererSet = false;
     private RotationVectorListener mRotationVector;
@@ -37,6 +45,7 @@ public class AirHockeyActivity extends Activity implements RotationUpdateDelegat
     private int mDisplayRotation;
     private AirHockeyRenderer mRender;
     private SensorManager mSensorManager;
+    private GestureDetectorCompat mDetector;
 
 
     @Override
@@ -47,7 +56,7 @@ public class AirHockeyActivity extends Activity implements RotationUpdateDelegat
 
         final Display display = ((WindowManager) getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay();
         mDisplayRotation = (Build.VERSION.SDK_INT >= Build.VERSION_CODES.FROYO) ? display.getRotation() : display.getOrientation();
-
+        mDetector = new GestureDetectorCompat(this,this);
         glSurfaceView = new GLSurfaceView(this);
 
         // Check if the system supports OpenGL ES 2.0.
@@ -104,6 +113,35 @@ public class AirHockeyActivity extends Activity implements RotationUpdateDelegat
     }
 
     @Override
+    public boolean dispatchTouchEvent(MotionEvent ev) {
+        mDetector.onTouchEvent(ev);
+        int action = ev.getAction() & MotionEvent.ACTION_MASK;
+        /*switch (action) {
+            case MotionEvent.ACTION_DOWN:
+                Log.d(TAG, "ACTION_DOWN");
+                return true;
+            case MotionEvent.ACTION_POINTER_DOWN:
+                Log.d(TAG, "ACTION_POINTER_DOWN");
+                return true;
+            case MotionEvent.ACTION_MOVE:
+                Log.d(TAG, "ACTION_MOVE");
+                return true;
+            case MotionEvent.ACTION_UP:
+                Log.d(TAG, "ACTION_UP");
+                return true;
+            case MotionEvent.ACTION_POINTER_UP:
+                Log.d(TAG, "ACTION_POINTER_UP");
+                return true;
+            case MotionEvent.ACTION_CANCEL:
+                Log.d(TAG, "ACTION_CANCEL");
+                return true;
+            default:
+                Log.d(TAG, "default: action = " + action);
+        }*/
+        return super.dispatchTouchEvent(ev);
+    }
+
+    @Override
     protected void onPause() {
         super.onPause();
         mSensorManager.unregisterListener(mRotationVector);
@@ -140,5 +178,61 @@ public class AirHockeyActivity extends Activity implements RotationUpdateDelegat
         }
         mRotationMatrix.set(newMatrix);
         updateCamera(newMatrix);
+    }
+    @Override
+    public boolean onDown(MotionEvent event) {
+        //Log.d(DEBUG_TAG,"onDown: " + event.toString());
+        return true;
+    }
+
+    @Override
+    public boolean onFling(MotionEvent event1, MotionEvent event2,
+                           float velocityX, float velocityY) {
+        Log.d(DEBUG_TAG, "onFling: " + velocityX);
+        mRender.updateModelPosition(velocityX);
+        return true;
+    }
+
+    @Override
+    public void onLongPress(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onLongPress: " + event.toString());
+    }
+
+    @Override
+    public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
+                            float distanceY) {
+        //Log.d(DEBUG_TAG, "onScroll: " + e1.toString()+e2.toString());
+        Log.d(DEBUG_TAG, "onScroll: " +  distanceX);
+        mRender.updateScroll(distanceX);
+        return true;
+    }
+
+    @Override
+    public void onShowPress(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onShowPress: " + event.toString());
+    }
+
+    @Override
+    public boolean onSingleTapUp(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onSingleTapUp: " + event.toString());
+        return true;
+    }
+
+    @Override
+    public boolean onDoubleTap(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onDoubleTap: " + event.toString());
+        return true;
+    }
+
+    @Override
+    public boolean onDoubleTapEvent(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onDoubleTapEvent: " + event.toString());
+        return true;
+    }
+
+    @Override
+    public boolean onSingleTapConfirmed(MotionEvent event) {
+        //Log.d(DEBUG_TAG, "onSingleTapConfirmed: " + event.toString());
+        return true;
     }
 }
