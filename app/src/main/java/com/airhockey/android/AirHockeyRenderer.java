@@ -222,7 +222,10 @@ public class AirHockeyRenderer implements Renderer {
     }
 
     void  updateSceneMatrix(){
-        MatrixHelper.perspectiveM(projectionMatrix, 45, (float) mWidth
+
+        float[] tmpProjectionMatrix = new float[16];
+
+        MatrixHelper.perspectiveM(tmpProjectionMatrix, 45, (float) mWidth
                 / (float) mHeight, 1f, 10f);
 
         /*
@@ -240,7 +243,7 @@ public class AirHockeyRenderer implements Renderer {
         final float[] temp = new float[16];
         multiplyMM(temp, 0, cameraMatrix, 0, modelMatrix, 0);
         System.arraycopy(temp, 0, cameraMatrix, 0, temp.length);
-        multiplyMM(temp, 0, projectionMatrix, 0, cameraMatrix, 0);
+        multiplyMM(temp, 0, tmpProjectionMatrix, 0, cameraMatrix, 0);
         System.arraycopy(temp, 0, projectionMatrix, 0, temp.length);
     }
     /**
