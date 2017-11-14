@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/wangjf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9573cff3cfd4ebf9a0fcf97575b8926/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/8a1bc344dddb9ff56ba694994ee8101d/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:17:1-31:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:5:5-16:19
+MERGED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/wangjf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9573cff3cfd4ebf9a0fcf97575b8926/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/wangjf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9573cff3cfd4ebf9a0fcf97575b8926/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:6:9-41
+	android:roundIcon
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:6:42-87
+	android:icon
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:5:45-79
+	android:allowBackup
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:5:18-44
+	android:theme
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:7:36-67
+activity#com.airhockey.android.AirHockeyActivity
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:9-15:20
+	android:label
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:53-85
+	android:theme
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:9:13-56
+	android:name
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:10:13-14:29
+action#android.intent.action.MAIN
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/wangjf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9573cff3cfd4ebf9a0fcf97575b8926/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/wangjf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9573cff3cfd4ebf9a0fcf97575b8926/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/8a1bc344dddb9ff56ba694994ee8101d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/8a1bc344dddb9ff56ba694994ee8101d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:21:5-23:58
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+		INJECTED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/10f66144e6893e86e899aa252b17672d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e7e80dbc3527c9518d44b6f3bf819a91/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/36bb70255d2b85ac636201e5009f12cd/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/8a1bc344dddb9ff56ba694994ee8101d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/8a1bc344dddb9ff56ba694994ee8101d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/cf38a024901daf715145ea5c505329be/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1b291c4c110efacc177fc2013083e4dc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ef89bfa90fc086d4285919b3bd0d628c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0c1c19215cfc47a0cd5d42f193dcabe0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6af64f53026d8e4c11ea5d88765ec46f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/068f308bc14a4931739b73c88486b84a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e816a271f716099664f1fbd7e401a0aa/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/wangjf/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/812acfd2b83b55dea552ebe3849ab002/AndroidManifest.xml:26:9-47

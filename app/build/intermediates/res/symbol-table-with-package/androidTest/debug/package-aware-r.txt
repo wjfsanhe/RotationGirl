@@ -1,0 +1,2 @@
+com.example.wangjf.myapplication.test
+int string app_name 0x7f010000
