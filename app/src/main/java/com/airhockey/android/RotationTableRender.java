@@ -175,7 +175,7 @@ public class RotationTableRender implements Renderer {
         rotateM(modelMatrix, 0, modelAngle, 1f, 0f, 0f);
         //rotateM(modelMatrix, 0, -90f, 0f, 0f, 1f);
 
-
+        //rotateM(cameraMatrix, 0, 180f, 1f, 0f, 0f);
 
         final float[] temp = new float[16];
         multiplyMM(temp, 0, cameraMatrix, 0, modelMatrix, 0);
