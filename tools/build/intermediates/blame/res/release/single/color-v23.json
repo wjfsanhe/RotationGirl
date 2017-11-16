@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

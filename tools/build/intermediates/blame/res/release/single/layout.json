@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/47a5ff11b2f88ae16e15969449520230/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/47a5ff11b2f88ae16e15969449520230/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6517f330d2620b8e2c98e15a4f590c18/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/layout/abc_alert_dialog_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/47a5ff11b2f88ae16e15969449520230/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/disk1/AndroidStudioProjects/RotationTable/tools/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/wangjf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8ce3d088185f388c64a42282aa1496a/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

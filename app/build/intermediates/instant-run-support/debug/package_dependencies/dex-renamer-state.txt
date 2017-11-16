@@ -1,4 +1,4 @@
-#Mon Nov 13 09:23:02 CST 2017
+#Tue Nov 14 18:19:17 CST 2017
 base.0=/disk1/AndroidStudioProjects/RotationTable/app/build/intermediates/transforms/dexMerger/debug/16
 renamed.0=classes.dex
 file.0=/disk1/AndroidStudioProjects/RotationTable/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex

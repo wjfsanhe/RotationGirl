@@ -70,14 +70,14 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/wangjf/.gradle/cac
 		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:5:18-44
 	android:theme
 		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:7:36-67
-activity#com.airhockey.android.AirHockeyActivity
+activity#com.airhockey.android.RotationTable
 ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:9-15:20
 	android:label
-		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:53-85
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:49-81
 	android:theme
 		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:9:13-56
 	android:name
-		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:19-52
+		ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:8:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /disk1/AndroidStudioProjects/RotationTable/app/src/main/AndroidManifest.xml:10:13-14:29
 action#android.intent.action.MAIN
